@@ -116,7 +116,7 @@ markdown
 Copy code
 Day1/images/1.png
 
-![Linux Command Output](images/linux_less.png)
+![Linux Command Output](Day1/images/1.png)
 (Each images/filename.png should match the screenshot you upload into your repo.)
 
 ✅ Summary
