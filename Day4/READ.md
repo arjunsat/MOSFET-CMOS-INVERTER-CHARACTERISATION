@@ -7,5 +7,4 @@
 ![Noise Margin SPICE](images/noisemargin_spice.png)
 
 ### VOH, VIL, and VIH Voltages
-![VOH VIL VIH](images/voh_vil_and_vih_vol.png)
-
+![VOH_VIL_VIH](images/vohvil_vihvol.png)
