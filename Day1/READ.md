@@ -71,7 +71,7 @@ It outputs waveforms of current/voltage → used to calculate **cell delays** (i
 
 ---
 
-## 🔹 Day 1 Lab – Linux Basics 🐧
+## 🔹 Day 1 Lab –🐧
 
 We used **Ubuntu** to explore the `less` command (a pager to view text files one screen at a time).  
 
@@ -116,7 +116,7 @@ markdown
 Copy code
 Day1/images/1.png
 
-![Linux Command Output](Day1/images/1.png)
+![Linux Command Output](images/1.png)
 (Each images/filename.png should match the screenshot you upload into your repo.)
 
 ✅ Summary
