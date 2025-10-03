@@ -71,7 +71,7 @@ It outputs waveforms of current/voltage → used to calculate **cell delays** (i
 
 ---
 
-## 🔹 Day 1 Lab –🐧
+## 🔹 Day 1 Lab 
 
 We used **Ubuntu** to explore the `less` command (a pager to view text files one screen at a time).  
 
@@ -115,9 +115,12 @@ Paste your screenshots into the repo’s images/ folder, then reference them her
 markdown
 Copy code
 Day1/images/1.png
+![different modes of operation](images/spice_day1.png)
+![terminal operations](images/terminal_operations.png)
+![different modes of operation](images/1a.png)
+![different modes of operation](images/1.png)
+![different modes of operation](images/current.png)
 
-![Linux Command Output](images/1.png)
-(Each images/filename.png should match the screenshot you upload into your repo.)
 
 ✅ Summary
 Learned MOSFET modes & body effect.
