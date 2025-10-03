@@ -83,8 +83,8 @@ I_d = k_n \left[ (V_{gs} - V_t)V_{ds} - \frac{V_{ds}^2}{2} \right]
 ## ✅ Lab screen shots
 ![Short channel device Id vs Vds](images/shortchannel_idsvsvds.png)
 ![Id vs Vds](images/spice_ids_vds.png)
-![spice commad for idvsvgs](images/spice_vth)
-![id vs vgs graph and obtaining vth](images/vth)
+![spice commad for idvsvgs](images/spice_vth.png)
+![id vs vgs graph and obtaining vth](images/vth.png)
 
 
 ## ✅ Summary of Day 2
