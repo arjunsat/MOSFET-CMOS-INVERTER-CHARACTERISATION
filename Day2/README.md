@@ -81,7 +81,7 @@ I_d = k_n \left[ (V_{gs} - V_t)V_{ds} - \frac{V_{ds}^2}{2} \right]
 
 ---
 ## ✅ Lab screen shots
-![Short channel device Id vs Vds](images/shortchannel_ids vs vds.png)
+![Short channel device Id vs Vds](images/shortchannel_idsvsvds.png)
 ![Id vs Vds](images/id_vds.png)
 ![Id vs Vds](images/id_vds.png)
 
