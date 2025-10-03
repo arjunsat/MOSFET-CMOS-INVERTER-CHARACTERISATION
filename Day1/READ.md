@@ -1,7 +1,7 @@
 # 📘 CMOS Project – Day 1 Report
 
 Welcome to my Day 1 notes from the **CMOS Project**.  
-This repo captures my learnings, simulations, and lab activities in a structured and fun way 🚀.
+This repo captures my learnings, simulations, and lab activities.
 
 ---
 
@@ -107,13 +107,12 @@ Very small current when VGS < VT (device OFF).
 
 🧑‍🔬 Lab Session Theory & Screenshots
 📖 Lab Theory
-(Add your explanations here – e.g., what experiment was done, expected outputs, and concepts reinforced.)
+
 
 📸 Lab Screenshots
-Paste your screenshots into the repo’s images/ folder, then reference them here like this:
 
-markdown
-Copy code
+
+
 Day1/images/1.png
 ![different modes of operation](images/spice_day1.png)
 ![terminal operations](images/terminal_operations.png)
