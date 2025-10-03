@@ -1,4 +1,5 @@
 
+
 # 📘 CMOS Project – Day 3 Report
 
 Day 3 of the project focused on **CMOS inverter characterization**, analyzing the effect of transistor sizing, identifying the **switching threshold (Vm)**, and performing **delay analysis** using transient simulations. Both theoretical understanding and SPICE simulations were carried out, with supporting plots and graphs.  
@@ -67,7 +68,7 @@ Observations:
 - Zooming into plots (by right-click and drag in the tool) helped measure switching threshold and delay precisely.  
 
 SWITHING THRESHOLD
-![spice command](spice_command_short_channel_ids_vds.png)
+![spice command](images/spice_command_short_channel_ids_vds.png)
 
 
 
