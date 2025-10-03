@@ -66,6 +66,11 @@ Observations:
 - Transient analysis was performed to measure delay.  
 - Zooming into plots (by right-click and drag in the tool) helped measure switching threshold and delay precisely.  
 
+SWITHING THRESHOLD
+![VTC Graph](images/vtc.png)
+
+
+
 
 ---
 
