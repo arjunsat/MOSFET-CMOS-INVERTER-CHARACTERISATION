@@ -1,31 +1,21 @@
 # 📘 CMOS Project – Day 2 Report
 
-This is my Day 2 log for the CMOS Project.  
-It covers MOSFET behavior in linear and velocity saturation regions, short vs. long channel effects, and CMOS inverter basics.  
+This is my Day 2 log for the CMOS Project. The focus was on understanding MOSFET behavior in the linear region, the impact of channel length scaling, velocity saturation, and the fundamentals of the CMOS inverter. Both theoretical analysis and lab observations were combined to strengthen the concepts. 
+  
 
 ---
 
 ## 🔹 MOSFET Drain Current Equation
 
-When **VGS > VT** and at lower VDS values:
+<img width="1058" height="632" alt="image" src="https://github.com/user-attachments/assets/902ef316-553b-42d7-9206-174c1b9b1795" />
 
-\[
-I_d = k_n \left[ (V_{gs} - V_t)V_{ds} - \frac{V_{ds}^2}{2} \right]
-\]
 
-- This is the **drain current equation** in the **linear (triode) region** of a MOSFET.  
-- Mathematically:  
-  - Not strictly linear (because of quadratic term \( V_{ds}^2 \)).  
-  - First term \((V_{gs}-V_t)V_{ds}\) is bilinear.  
-- Why called *linear region*?  
-  - At small VDS, MOSFET behaves like a **voltage-controlled resistor**.  
-  - Id ≈ linear with VDS (ignoring quadratic term).  
-
-✅ **Key point:** Mathematically nonlinear, but in device physics called *linear/ohmic region*.:contentReference[oaicite:0]{index=0}
+✅ **Key point:** Mathematically nonlinear, but in device physics called *linear/ohmic region*.
 
 ---
 
 ## 🔹 Long vs Short Channel Behavior
+
 
 - **Long Channel (1.2 μm):**  
   - Drain current shows **quadratic dependence** on VGS at a fixed VDS.  
@@ -57,7 +47,7 @@ I_d = k_n \left[ (V_{gs} - V_t)V_{ds} - \frac{V_{ds}^2}{2} \right]
 - Peak current reduces as VDSmin increases.  
 - ID vs VGS used to extract **VTH**:  
   - Extrapolate Id–Vgs curve back to x-axis.  
-  - Example: **VTH ≈ 0.77 V**:contentReference[oaicite:1]{index=1}.  
+  - Example: **VTH ≈ 0.77 V**.  
 
 ---
 
@@ -81,8 +71,9 @@ I_d = k_n \left[ (V_{gs} - V_t)V_{ds} - \frac{V_{ds}^2}{2} \right]
 
 ---
 ## ✅ Lab screen shots
-![Short channel device Id vs Vds](images/shortchannel_idsvsvds.png)
 ![Id vs Vds](images/spice_ids_vds.png)
+![Short channel device Id vs Vds](images/shortchannel_idsvsvds.png)
+
 ![spice commad for idvsvgs](images/spice_vth.png)
 ![id vs vgs graph and obtaining vth](images/vth.png)
 
