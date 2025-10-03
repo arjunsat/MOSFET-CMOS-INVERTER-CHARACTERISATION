@@ -81,7 +81,7 @@ SWITHING THRESHOLD
 TRANSIENT ANALYSIS
 
 ![Switching Threshold Values](images/transient_graph.png)
-![Switching Threshold Values](images/rise_delay and fall_delay.png)
+![Switching Threshold Values](images/rise_delay_and_fall_delay.png)
 
 
 
