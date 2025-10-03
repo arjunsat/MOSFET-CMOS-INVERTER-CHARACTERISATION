@@ -76,7 +76,7 @@ It outputs waveforms of current/voltage → used to calculate **cell delays** (i
 We used **Ubuntu** to explore the `less` command (a pager to view text files one screen at a time).  
 
 ### Commands
-```bash
+
 less filename
 less /etc/passwd
 Navigation Shortcuts
@@ -134,4 +134,5 @@ Documented lab theory and included screenshots.
 
 yaml
 Copy code
+
 
