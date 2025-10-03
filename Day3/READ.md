@@ -67,7 +67,7 @@ Observations:
 - Zooming into plots (by right-click and drag in the tool) helped measure switching threshold and delay precisely.  
 
 SWITHING THRESHOLD
-spice command(spicecommand_short channel_ids_vds.png)
+![spice command](spice_command_short_channel_ids_vds.png)
 
 
 
