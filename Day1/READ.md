@@ -132,9 +132,6 @@ Generated plots of Id vs VDS.
 
 Documented lab theory and included screenshots.
 
-✨ End of Day 1 – Onwards to deeper CMOS adventures! 🚀
-
-yaml
-Copy code
+✨ End of Day 1 
 
 
