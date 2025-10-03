@@ -76,7 +76,7 @@ SWITHING THRESHOLD
 ![SPICE Switching Threshold](images/spice_switching_threshold.png)
 
 ### Switching Threshold Values
-![Switching Threshold Values](images/switching_threshold_values.png)
+![Switching Threshold Values](images/values.png)
 
 
 
