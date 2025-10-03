@@ -22,8 +22,7 @@ Example from graph:
 - NML = \( VIL - VOL = 0.3 - 0 = 0.3 \, V \)  
 
 ✅ The wider the noise margin region, the better the noise immunity.  
-
-📸 *Reference image: VTC curve with highlighted noise margin regions*  
+  
 
 ---
 
@@ -48,7 +47,7 @@ Example from graph:
   - When PMOS is made stronger, NMH increases, but **Noise Margin Low (NML)** reduces.  
   - This happens because the stronger PMOS makes it harder for the weaker NMOS to hold logic 0.  
 
-📸 *Reference image: Effect of increasing PMOS width on NMH and NML*  
+
 
 ---
 
