@@ -72,6 +72,13 @@ SWITHING THRESHOLD
 
 
 ![spice command](images/spice_command_short_channel_ids_vds.png)
+### Switching Threshold (SPICE Simulation)
+![SPICE Switching Threshold](images/spice_switching_threshold.png)
+
+### Switching Threshold Values
+![Switching Threshold Values](images/switching_threshold_values.png)
+
+
 
 
 
