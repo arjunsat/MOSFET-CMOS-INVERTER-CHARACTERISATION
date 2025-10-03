@@ -115,7 +115,7 @@ Very small current when VGS < VT (device OFF).
 
 Day1/images/1.png
 ![different modes of operation](images/spice_day1.png)
-![1terminal operations](images/terminal_operations.png)
+![1terminal_operations](images/terminal_operations.png)
 ![different modes of operation](images/1a.png)
 ![different modes of operation](images/1.png)
 ![current calculated](images/1current.png)
