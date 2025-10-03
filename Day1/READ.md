@@ -118,7 +118,7 @@ Day1/images/1.png
 ![terminal operations](images/terminal_operations.png)
 ![different modes of operation](images/1a.png)
 ![different modes of operation](images/1.png)
-![different modes of operation](images/1current.png)
+![current calculated](images/1current.png)
 
 
 ✅ Summary
