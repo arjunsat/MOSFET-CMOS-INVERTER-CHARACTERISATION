@@ -114,7 +114,7 @@ Paste your screenshots into the repo’s images/ folder, then reference them her
 
 markdown
 Copy code
-![Simulation Netlist](images/netlist.png)
+![Simulation Netlist](images/1a.png)
 ![Waveform Output](images/waveform.png)
 ![Linux Command Output](images/linux_less.png)
 (Each images/filename.png should match the screenshot you upload into your repo.)
